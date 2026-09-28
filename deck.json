@@ -171,6 +171,7 @@
         "idol_woman_audience.png",
         "illustkun-01055-tricolore-italiano.png",
         "illustkun-01073-union-flag.png",
+        "illustkun-01075-australia-flag.png",
         "illustkun-01089-netherlands-flag.png",
         "illustkun-01147-indonesia-flag.png",
         "illustkun-01351-argentina-flag.png",
@@ -1759,12 +1760,12 @@
         {
             "__type__": "Note",
             "fields": [
-                "",
+                "<img alt=\"国旗のイラスト（オーストラリア）\" src=\"illustkun-01075-australia-flag.png\">",
                 "オーストラリア",
                 "Australia",
                 "",
                 "",
-                ""
+                "オーストラリアの国旗"
             ],
             "guid": "mK*IGq9LrA",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -1810,7 +1811,7 @@
                 "",
                 "オートレース",
                 "motorcycle racing with legalized gambling",
-                "&apos;auto race&apos;",
+                "'auto race'",
                 "",
                 ""
             ],
@@ -2369,8 +2370,8 @@
             "fields": [
                 "",
                 "カルテ",
-                "(a patient&apos;s) medical record",
-                "German &apos;Karte&apos; (card, chart)",
+                "(a patient's) medical record",
+                "German 'Karte' (card, chart)",
                 "",
                 ""
             ],
@@ -11121,7 +11122,7 @@
             "fields": [
                 "",
                 "オードブル",
-                "hors-d&apos;œuvre",
+                "hors-d'œuvre",
                 "",
                 "",
                 ""
@@ -11154,7 +11155,7 @@
                 "",
                 "オープンカー",
                 "convertible (automobile)",
-                "&apos;open car&apos;",
+                "'open car'",
                 "",
                 ""
             ],
@@ -11170,7 +11171,7 @@
                 "",
                 "オーライ",
                 "all right, OK",
-                "&apos;a(ll) righ(t)&apos;",
+                "'a(ll) righ(t)'",
                 "",
                 ""
             ],
@@ -11234,7 +11235,7 @@
                 "",
                 "ガーゼ",
                 "gauze",
-                "German &apos;Gaze&apos; (gauze)",
+                "German 'Gaze' (gauze)",
                 "",
                 ""
             ],
@@ -11266,7 +11267,7 @@
                 "",
                 "ガードマン",
                 "security guard",
-                "&apos;guard man&apos;&apos;",
+                "'guard man''",
                 "",
                 ""
             ],
@@ -11314,7 +11315,7 @@
                 "",
                 "ガソリンスタンド",
                 "gas station (US), petrol station (UK)",
-                "&apos;gasoline stand&apos;",
+                "'gasoline stand'",
                 "",
                 ""
             ],
@@ -11330,7 +11331,7 @@
                 "",
                 "ガッツポーズ",
                 "fist pump, victory pose",
-                "&apos;guts pose&apos;",
+                "'guts pose'",
                 "",
                 ""
             ],
@@ -11394,7 +11395,7 @@
                 "",
                 "カモン or カモーン",
                 "An invitation to join an activity or event.",
-                "&apos;come on&apos;",
+                "'come on'",
                 "",
                 ""
             ],
@@ -11410,7 +11411,7 @@
                 "",
                 "カルタ",
                 "karuta (Japanese playing cards)",
-                "Portugese &apos;karta&apos;",
+                "Portugese 'karta'",
                 "",
                 ""
             ],
@@ -11426,7 +11427,7 @@
                 "",
                 "カルピス",
                 "Calpis (a milky soft drink)",
-                "&apos;cal(cium)&apos; + Sanskrit सर पिस &apos;(sar)pis&apos; (butter flavor)",
+                "'cal(cium)' + Sanskrit सर पिस '(sar)pis' (butter flavor)",
                 "",
                 ""
             ],
@@ -11554,7 +11555,7 @@
                 "",
                 "キャッチホン",
                 "call waiting",
-                "&apos;catch phone&apos;",
+                "'catch phone'",
                 "",
                 ""
             ],
@@ -11618,7 +11619,7 @@
                 "",
                 "キャンピングカー",
                 "recreational vehicle",
-                "&apos;camping car&apos;",
+                "'camping car'",
                 "",
                 ""
             ],
@@ -11650,7 +11651,7 @@
                 "",
                 "キリスト教",
                 "Christianity",
-                "&apos;Christ&apos; + Japanese 教 &apos;kyou&apos; (doctrine)",
+                "'Christ' + Japanese 教 'kyou' (doctrine)",
                 "",
                 ""
             ],
