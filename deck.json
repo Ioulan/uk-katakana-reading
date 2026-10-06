@@ -454,7 +454,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "css": "@font-face {\n  font-family: \"M Plus 2\";\n  src: url(\"_Mplus2-Regular.ttf\");\n}\n\nhtml, body {\n  height: 100%;\n  margin: 0;\n}\n\n.card {\n  font-family: \"M Plus 2\", system-ui, sans-serif;\n  color: #fff;\n  box-sizing: border-box;\n  max-width: 800px;\n  margin: 0 auto;\n  text-align: center;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n\n.katakana-front {\n  font-size: clamp(1.8rem, 8vw, 3rem);\n  font-weight: 700;\n  white-space: nowrap;\n}\n\n.katakana-back {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  min-height: 5.5rem;\n  font-size: clamp(1.5rem, 5vw, 2rem);\n  font-weight: 200;\n  opacity: 0.7;\n  margin-bottom: 0.75rem;\n  white-space: nowrap;\n  cursor: pointer;\n  transition: opacity 0.2s;\n  position: relative;\n}\n\n.katakana-back:hover {\n  opacity: 1;\n  color: #89b4fa;\n}\n\n.romaji-hover, .tooltip {\n  visibility: hidden;\n  opacity: 0;\n  color: rgba(255, 255, 255, 0.6);\n  white-space: nowrap;\n  pointer-events: none;\n  transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              visibility 0.25s ease;\n}\n\n.romaji-hover {\n  font-size: 0.55em;\n  margin-bottom: 10px;\n  transform: translateY(16px);\n}\n\n.katakana-back:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.meaning {\n  font-size: 1.85rem;\n  font-weight: 550;\n  cursor: pointer;\n}\n\n.origin, .notes {\n  font-style: italic;\n  opacity: 0.85;\n}\n\n.origin {\n  font-size: 1.05rem;\n  margin-bottom: 0.5rem;\n}\n\n.notes {\n  font-size: 0.95rem;\n  opacity: 0.7;\n}\n\nimg {\n  max-width: 60vw;\n  max-height: 30vh;\n  object-fit: contain;\n  border-radius: 8px;\n}\n\n.img-src { \n  position: relative; \n  display: inline-block;\n  cursor: pointer;\n}\n\n.tooltip {\n  position: absolute; \n  top: 100%; \n  left: 50%; \n  margin-top: 10px;\n  transform: translateY(16px) translateX(-50%);\n}\n\n.img-src:hover .tooltip, \n.img-src:active .tooltip { \n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0) translateX(-50%);\n}\n\n.audio { display: none; }\n\n/* --- TEMP STYLE: DELETE LATER --- */\n.romaji-hover, .tooltip {\n  visibility: visible !important;\n  opacity: 1 !important;\n  transform: none !important;\n}\n",
+            "css": "@font-face {\n  font-family: \"M Plus 2\";\n  src: url(\"_Mplus2-Regular.ttf\");\n}\n\nhtml, body {\n  height: 100%;\n  margin: 0;\n}\n\n.card {\n  font-family: \"M Plus 2\", system-ui, sans-serif;\n  color: #fff;\n  box-sizing: border-box;\n  max-width: 800px;\n  margin: 0 auto;\n  text-align: center;\n  height: 100%;\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n\n.katakana-front {\n  font-size: clamp(1.8rem, 8vw, 3rem);\n  font-weight: 700;\n  white-space: nowrap;\n}\n\n.katakana-back {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  min-height: 5.5rem;\n  font-size: clamp(1.5rem, 5vw, 2rem);\n  font-weight: 200;\n  opacity: 0.7;\n  margin-bottom: 0.75rem;\n  white-space: nowrap;\n  cursor: pointer;\n  transition: opacity 0.2s;\n  position: relative;\n}\n\n.katakana-back:hover {\n  opacity: 1;\n  color: #89b4fa;\n}\n\n.romaji-hover, .tooltip {\n  visibility: hidden;\n  opacity: 0;\n  color: rgba(255, 255, 255, 0.6);\n  white-space: nowrap;\n  pointer-events: none;\n  transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), \n              visibility 0.25s ease;\n}\n\n.romaji-hover {\n  font-size: 0.55em;\n  margin-bottom: 10px;\n  transform: translateY(16px);\n}\n\n.katakana-back:hover .romaji-hover {\n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0);\n}\n\n.meaning {\n  font-size: 1.85rem;\n  font-weight: 550;\n  cursor: pointer;\n}\n\n.origin, .notes {\n  font-style: italic;\n  opacity: 0.85;\n}\n\n.origin {\n  font-size: 1.05rem;\n  margin-bottom: 0.5rem;\n}\n\n.notes {\n  font-size: 0.95rem;\n  opacity: 0.7;\n}\n\nimg {\n  max-width: 60vw;\n  max-height: 30vh;\n  object-fit: contain;\n  border-radius: 8px;\n}\n\n.img-src { \n  position: relative; \n  display: inline-block;\n  cursor: pointer;\n}\n\n.tooltip {\n  position: absolute; \n  top: 100%; \n  left: 50%; \n  margin-top: 10px;\n  transform: translateY(16px) translateX(-50%);\n}\n\n.img-src:hover .tooltip, \n.img-src:active .tooltip { \n  visibility: visible;\n  opacity: 1;\n  transform: translateY(0) translateX(-50%);\n}\n\n.audio { display: none; }",
             "flds": [
                 {
                     "collapsed": false,
@@ -2466,7 +2466,7 @@
             "fields": [
                 "ユニットバス",
                 "modular bath, prefabricated bath",
-                "&apos;unit bath&apos;",
+                "'unit bath'",
                 "",
                 "",
                 "",
@@ -8946,7 +8946,7 @@
             "fields": [
                 "ペンキ",
                 "house paint",
-                "Dutch &apos;pek&apos; (pitch)",
+                "Dutch 'pek' (pitch)",
                 "",
                 "",
                 "",
@@ -13356,7 +13356,7 @@
             "fields": [
                 "フロント",
                 "the reception desk, e.g. at a hotel",
-                "&apos;front (desk)&apos;",
+                "'front (desk)'",
                 "",
                 "",
                 "",
