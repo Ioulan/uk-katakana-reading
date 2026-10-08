@@ -248,6 +248,7 @@
         "food_salad_udon.png",
         "food_sandwitch.png",
         "food_shichimenchou.png",
+        "food_stake.png",
         "food_wantan_soup.png",
         "fruit_kiwi_green.png",
         "game_horror_man.png",
@@ -362,6 +363,7 @@
         "musician_violin_usagi.png",
         "nigaoe_george_washington.png",
         "nigaoe_jesus_christ.png",
+        "nigaoe_shakespeare.png",
         "niji.png",
         "nimotsu_ukewatashi.png",
         "norimono_bike.png",
@@ -447,6 +449,7 @@
         "sports_american_football.png",
         "sports_icehockey_goalie.png",
         "sports_soccer_pass_man.png",
+        "sports_wind_surfing_woman.png",
         "statue_of_liberty.png",
         "study_english_ondoku.png",
         "suiei_crawl_people.png",
@@ -982,7 +985,9 @@
             ],
             "guid": "Ad_gl-v<5U",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -1177,7 +1182,9 @@
             ],
             "guid": "B):QAa8b0U",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -1192,7 +1199,9 @@
             ],
             "guid": "B+bLKN^TJ8",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -1507,7 +1516,9 @@
             ],
             "guid": "C74PsI<dXH",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -1627,7 +1638,9 @@
             ],
             "guid": "CcgT;-?d0{",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -1732,7 +1745,9 @@
             ],
             "guid": "Ct=`$wflE$",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -2182,7 +2197,9 @@
             ],
             "guid": "Dve_Q.>SAJ",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "colloquial"
+            ]
         },
         {
             "__type__": "Note",
@@ -2437,7 +2454,9 @@
             ],
             "guid": "EfBRT`+xqr",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -2472,17 +2491,19 @@
         {
             "__type__": "Note",
             "fields": [
-                "シャープペンシル or シャーペン",
+                "シャーペン",
                 "mechanical pencil",
-                "&apos;sharp pen(cil) &apos;",
+                "'sharp pen(cil) '",
                 "",
                 "",
                 "",
-                "shāpupenshiru or shāpen"
+                "shāpen"
             ],
             "guid": "Eu9HwkjXq7",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -2827,7 +2848,9 @@
             ],
             "guid": "Fzrv-SIx0w",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -3598,7 +3621,7 @@
             "__type__": "Note",
             "fields": [
                 "ギャンブル",
-                "gamble, gambling",
+                "gambling",
                 "",
                 "",
                 "カジノのチップ",
@@ -3817,7 +3840,9 @@
             ],
             "guid": "J(EyXwJ+Wx",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -4318,9 +4343,9 @@
             "__type__": "Note",
             "fields": [
                 "シナリオ",
-                "scenario, script, screenplay",
+                "scenario",
                 "",
-                "",
+                "script, screenplay",
                 "",
                 "",
                 "shinario"
@@ -4887,13 +4912,13 @@
         {
             "__type__": "Note",
             "fields": [
-                "シアトル",
-                "Seattle",
+                "シチュエーション",
+                "situation",
                 "",
                 "",
                 "",
                 "",
-                "shiatoru"
+                "shichuēshon"
             ],
             "guid": "M|Dx~8CCDV",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -5107,7 +5132,9 @@
             ],
             "guid": "NDSm_Nr.Hc",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -5137,7 +5164,9 @@
             ],
             "guid": "NUf3X^KY$Q",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -5806,13 +5835,15 @@
                 "Shakespeare",
                 "",
                 "extended katakana: シェ (she)",
-                "",
-                "",
+                "シェイクスピアの似顔絵",
+                "<img alt=\"シェイクスピアの似顔絵イラスト\" src=\"nigaoe_shakespeare.png\">",
                 "sheikusupia"
             ],
             "guid": "POBxYDI1Xm",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "person"
+            ]
         },
         {
             "__type__": "Note",
@@ -5836,8 +5867,8 @@
                 "surfing",
                 "",
                 "extended katakana: フィ (fi)",
-                "",
-                "",
+                "ウインドサーフィン",
+                "<img alt=\"ウインドサーフィンのイラスト（女性）\" src=\"sports_wind_surfing_woman.png\"><br>",
                 "sāfin"
             ],
             "guid": "PP*&AFY~7B",
@@ -6217,7 +6248,9 @@
             ],
             "guid": "Q>SJ$4aA.F",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -6374,8 +6407,8 @@
             "fields": [
                 "コンタクト・レンズ",
                 "contact lens",
-                "",
                 "abbr.&nbsp;コンタクト",
+                "",
                 "コンタクトレンズのケース",
                 "<img alt=\"コンタクトレンズのケースのイラスト\" src=\"medical_contact_lens_case.png\">",
                 "kontakuto・renzu"
@@ -6442,7 +6475,9 @@
             ],
             "guid": "Qx3P/Q,q(l",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -6877,7 +6912,9 @@
             ],
             "guid": "bs?RB1(#XL",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "music"
+            ]
         },
         {
             "__type__": "Note",
@@ -7462,7 +7499,9 @@
             ],
             "guid": "dF<|d?@MLf",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -8092,7 +8131,9 @@
             ],
             "guid": "f(/$:XDKW",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -8370,7 +8411,7 @@
                 "シリアル",
                 "cereal",
                 "",
-                "",
+                "also serial",
                 "",
                 "",
                 "shiriaru"
@@ -8563,9 +8604,9 @@
             "__type__": "Note",
             "fields": [
                 "グラフ",
-                "chart, graph",
+                "graph",
                 "",
-                "",
+                "chart, diagram",
                 "折れ線グラフ",
                 "<img src=\"graph10_oresen1.png\">",
                 "gurafu"
@@ -9193,7 +9234,7 @@
             "__type__": "Note",
             "fields": [
                 "ウォシュレット",
-                "Washlet®",
+                "Washlet ®",
                 "A toilet with a built-in bidet<br>'wash (toi)let' (a genericized trademark of TOTO Ltd.)",
                 "extended katakana: ウォ (wo)",
                 "温水洗浄便座",
@@ -9202,7 +9243,9 @@
             ],
             "guid": "h~`ixYj,fC",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "trademark"
+            ]
         },
         {
             "__type__": "Note",
@@ -10034,7 +10077,7 @@
             "fields": [
                 "シューマイ",
                 "shu mai (Chinese steamed dumpling)",
-                "Cantonese 焼賣 &apos;sīu máai&apos;",
+                "Cantonese 焼賣 'sīu máai'",
                 "recent Chinese loanwords often use katakana",
                 "",
                 "",
@@ -10042,7 +10085,9 @@
             ],
             "guid": "k769qlw?F?",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -10092,17 +10137,19 @@
         {
             "__type__": "Note",
             "fields": [
-                "シェリー",
-                "sherry",
+                "シュール",
+                "surreal",
+                "'surreal(ism)'",
                 "",
-                "extended katakana: シェ (she)",
                 "",
                 "",
-                "sherī"
+                "shūru"
             ],
             "guid": "kG+l0Z27@(",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -10918,9 +10965,9 @@
             "__type__": "Note",
             "fields": [
                 "キャンペーン",
-                "promotion, sales, <br>advertising",
-                "'campaign'",
+                "campaign",
                 "",
+                "(sales) promotion,<br>(advertising) campaign",
                 "広告だらけのウェブサイト",
                 "<img alt=\"広告だらけのウェブサイトのイラスト（スマートフォン・タブレット）\" src=\"koukoku_web_smartphone.png\">",
                 "kyanpēn"
@@ -11617,7 +11664,9 @@
             ],
             "guid": "on!M,?04mQ",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -11808,7 +11857,7 @@
                 "",
                 "",
                 "",
-                "shabon玉"
+                "shabon dama"
             ],
             "guid": "p?hwm!37PC",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -12412,7 +12461,9 @@
             ],
             "guid": "qz8(|oH#i2",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "person"
+            ]
         },
         {
             "__type__": "Note",
@@ -12712,7 +12763,9 @@
             ],
             "guid": "r]ML~h2WR{",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -12922,7 +12975,9 @@
             ],
             "guid": "sEx|,H,wJ4",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -13171,8 +13226,8 @@
                 "sirloin steak",
                 "",
                 "",
-                "",
-                "",
+                "ジュージューに焼いた、ステーキ",
+                "<img alt=\"ステーキのイラスト\" src=\"food_stake.png\">",
                 "sāroin・sutēki"
             ],
             "guid": "t&r=O$c{6L",
@@ -14392,7 +14447,9 @@
             ],
             "guid": "wqAL9J6Q`b",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
