@@ -662,7 +662,7 @@
             "fields": [
                 "ピーマン",
                 "sweet bell pepper",
-                "French &apos;piment&apos;",
+                "French 'piment'",
                 "",
                 "",
                 "",
@@ -677,7 +677,7 @@
             "fields": [
                 "ヒステリー",
                 "loss of (self) control",
-                "German &apos;Hysterie&apos;",
+                "German 'Hysterie'",
                 "",
                 "",
                 "",
@@ -692,7 +692,7 @@
             "fields": [
                 "ライフライン",
                 "public infrastructure, utilities",
-                "&apos;lifeline&apos;",
+                "'lifeline'",
                 "",
                 "",
                 "",
@@ -715,7 +715,9 @@
             ],
             "guid": "1))H2?AJR",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -730,7 +732,9 @@
             ],
             "guid": "1iLg~@Qia",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -745,7 +749,9 @@
             ],
             "guid": "5~Y4+,/@.",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -775,7 +781,10 @@
             ],
             "guid": "<,L6Rg%N1",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -910,7 +919,9 @@
             ],
             "guid": "AJ!`<CGgsD",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -955,7 +966,9 @@
             ],
             "guid": "AVLfyG}ryz",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -1092,7 +1105,9 @@
             ],
             "guid": "AwMV%gO),J",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -1252,7 +1267,7 @@
             "__type__": "Note",
             "fields": [
                 "カフェ",
-                "café, coffee house",
+                "café, coffeehouse",
                 "",
                 "extended katakana: フェ (fe)",
                 "カフェ・喫茶店",
@@ -1298,7 +1313,7 @@
             "fields": [
                 "ボタン",
                 "button",
-                "Portugese &apos;botão&apos;",
+                "Portugese 'botão'",
                 "",
                 "",
                 "",
@@ -1321,7 +1336,10 @@
             ],
             "guid": "BSzEn`Ggs4",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -1433,7 +1451,7 @@
             "fields": [
                 "ノルマ",
                 "quota, minimum requirement (tasks)",
-                "Russian норма &apos;norma&apos; (standard, norm)",
+                "Russian норма 'norma' (standard, norm)",
                 "",
                 "",
                 "",
@@ -1456,7 +1474,9 @@
             ],
             "guid": "C,B~~PXwjP",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -1548,7 +1568,9 @@
             ],
             "guid": "CIs^{J5ztg",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -1608,7 +1630,9 @@
             ],
             "guid": "CYg=$MNvws",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -1685,7 +1709,9 @@
             ],
             "guid": "CfuupfAla9",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -1707,7 +1733,7 @@
             "fields": [
                 "ネコ",
                 "cat",
-                "Japanese ネコ &apos;neko&apos; (cat)",
+                "Japanese&nbsp;ネコ 'neko' (cat)",
                 "names of plants and animals are often written in katakana",
                 "",
                 "",
@@ -1762,7 +1788,9 @@
             ],
             "guid": "CtRsJ0cD`-",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -1777,14 +1805,16 @@
             ],
             "guid": "CvM.Z4Tf?r",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "タレント",
                 "TV personality/celebrity",
-                "&apos;talent&apos;",
+                "'talent'",
                 "",
                 "",
                 "",
@@ -1842,17 +1872,20 @@
         {
             "__type__": "Note",
             "fields": [
-                "ポケットベル or ポケベル",
+                "ポケベル",
                 "beeper, pager",
                 "'pocke(t) bell'",
                 "",
                 "",
                 "",
-                "pokettoberu or pokeberu"
+                "pokeberu"
             ],
             "guid": "D,KQ`Y5DDF",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -2047,7 +2080,9 @@
             ],
             "guid": "D`X,;eh<G$",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -2129,7 +2164,7 @@
             "fields": [
                 "ドクター ストップ",
                 "medical prohibition",
-                "&apos;doctor stop&apos;",
+                "'doctor stop'",
                 "",
                 "",
                 "",
@@ -2137,7 +2172,9 @@
             ],
             "guid": "Domt;PWUeJ",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -2152,7 +2189,9 @@
             ],
             "guid": "DrOy[2#xML",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -2236,7 +2275,7 @@
             "fields": [
                 "パンク",
                 "flat tire",
-                "&apos;punc(ture)&apos;",
+                "'punc(ture)'",
                 "",
                 "",
                 "",
@@ -2274,7 +2313,9 @@
             ],
             "guid": "D~T@E%@G)n",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "music"
+            ]
         },
         {
             "__type__": "Note",
@@ -2319,7 +2360,9 @@
             ],
             "guid": "E<W;XWv{A_",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -2334,7 +2377,10 @@
             ],
             "guid": "E@{LTH=I?s",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -2364,7 +2410,9 @@
             ],
             "guid": "EJQj(zG)[`",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -2424,14 +2472,16 @@
             ],
             "guid": "Ec<xdB49oV",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ヘルスメーター",
                 "bathroom scales, scales",
-                "&apos;health meter&apos;",
+                "'health meter'",
                 "",
                 "",
                 "",
@@ -2439,7 +2489,9 @@
             ],
             "guid": "Ef&:+ah)o7",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -2463,7 +2515,7 @@
             "fields": [
                 "デッサン",
                 "drawing",
-                "French &apos;dessin&apos;",
+                "French 'dessin'",
                 "",
                 "",
                 "",
@@ -2518,7 +2570,9 @@
             ],
             "guid": "Ew8-AZhM`5",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "music"
+            ]
         },
         {
             "__type__": "Note",
@@ -2548,7 +2602,9 @@
             ],
             "guid": "EygfBUp:%x",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -2638,7 +2694,9 @@
             ],
             "guid": "F2E*CAD^Jw",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -2698,7 +2756,9 @@
             ],
             "guid": "FF(D>v&%~w",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -2713,7 +2773,9 @@
             ],
             "guid": "FI^5Mb;}4[",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "computing"
+            ]
         },
         {
             "__type__": "Note",
@@ -2743,7 +2805,9 @@
             ],
             "guid": "FPsG:zB[J3",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "music"
+            ]
         },
         {
             "__type__": "Note",
@@ -2962,7 +3026,7 @@
             "fields": [
                 "マイナスドライバー",
                 "(flathead) screwdriver",
-                "&apos;minus driver&apos;",
+                "'minus driver'",
                 "",
                 "",
                 "",
@@ -2970,7 +3034,9 @@
             ],
             "guid": "G8Xzdi0-fp",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -3150,14 +3216,16 @@
             ],
             "guid": "GRZb5oaqtU",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ライバル",
                 "competitor, enemy",
-                "&apos;rival&apos;",
+                "'rival'",
                 "",
                 "",
                 "",
@@ -3261,9 +3329,9 @@
             "__type__": "Note",
             "fields": [
                 "シール",
-                "sticker, decal",
-                "'seal'",
+                "seal",
                 "",
+                "decal sticker",
                 "",
                 "",
                 "shīru"
@@ -3290,7 +3358,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "クェスチョンマーク",
+                "クエスチョンマーク",
                 "question mark",
                 "",
                 "extended katakana: クェ (kwe)",
@@ -3322,7 +3390,7 @@
             "fields": [
                 "ハイネック",
                 "turtleneck style shirt or sweater",
-                "&apos;high neck&apos;",
+                "'high neck'",
                 "",
                 "",
                 "",
@@ -3345,7 +3413,9 @@
             ],
             "guid": "G}#PP/|HQ,",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -3360,7 +3430,9 @@
             ],
             "guid": "H(mr[!M9W5",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -3427,7 +3499,7 @@
             "fields": [
                 "テレビゲーム",
                 "video game",
-                "&apos;televi(sion) game&apos;",
+                "'televi(sion) game'",
                 "",
                 "",
                 "",
@@ -3435,7 +3507,9 @@
             ],
             "guid": "HA;%)X:r2w",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -3465,13 +3539,15 @@
             ],
             "guid": "HK,et~_B5@",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "キーホルダー",
-                "key chain, key ring",
+                "keychain, key ring",
                 "'key holder'",
                 "",
                 "クマのキーホルダー",
@@ -3480,7 +3556,9 @@
             ],
             "guid": "HM(c%Ps]}U",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -3592,7 +3670,7 @@
             "fields": [
                 "ドイツ",
                 "Germany",
-                "Dutch &apos;Duitsland,&apos; from German &apos;Deutschland&apos;",
+                "Dutch 'Duitsland,' from German&nbsp;'Deutschland'",
                 "",
                 "",
                 "",
@@ -3600,7 +3678,9 @@
             ],
             "guid": "HajwNC/~]B",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -3682,7 +3762,7 @@
             "fields": [
                 "プラスドライバー",
                 "Phillips screwdriver",
-                "&apos;plus driver&apos;",
+                "'plus driver'",
                 "",
                 "",
                 "",
@@ -3690,7 +3770,9 @@
             ],
             "guid": "I(XWVx#vYa",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -3750,7 +3832,9 @@
             ],
             "guid": "IfH5nU&${8",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -3795,7 +3879,9 @@
             ],
             "guid": "Iv!DS)va_V",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -3825,7 +3911,9 @@
             ],
             "guid": "J$TAhAB1%e",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -3857,7 +3945,9 @@
             ],
             "guid": "J*;;_*}~=|",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -3932,7 +4022,9 @@
             ],
             "guid": "JJ#<8^f6I>",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -3998,7 +4090,7 @@
             "__type__": "Note",
             "fields": [
                 "シーツ",
-                "(bed) sheet(s)",
+                "(bed) sheet",
                 "",
                 "",
                 "",
@@ -4022,7 +4114,9 @@
             ],
             "guid": "J]sqm]GoHp",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -4187,7 +4281,10 @@
             ],
             "guid": "K3xd/<6YHX",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -4232,7 +4329,9 @@
             ],
             "guid": "KB/GP4X|4]",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -4247,7 +4346,9 @@
             ],
             "guid": "KBK/^>|ISt",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -4299,7 +4400,7 @@
             "fields": [
                 "スイートルーム",
                 "suite in a hotel",
-                "&apos;suite room&apos;",
+                "'suite room'",
                 "",
                 "",
                 "",
@@ -4307,7 +4408,9 @@
             ],
             "guid": "KUMq><aDi!",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -4337,7 +4440,10 @@
             ],
             "guid": "K]`eRLosko",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -4397,7 +4503,9 @@
             ],
             "guid": "K~%U:G=/4f",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -4464,7 +4572,7 @@
             "fields": [
                 "バックミラー",
                 "rear-view mirror",
-                "&apos;back mirror&apos;",
+                "'back mirror'",
                 "",
                 "",
                 "",
@@ -4472,7 +4580,9 @@
             ],
             "guid": "L<e~sqbriu",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -4487,14 +4597,16 @@
             ],
             "guid": "LBf{v7VykU",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "マスコミ",
                 "mass media, the media, the press",
-                "&apos;mass communication&apos;",
+                "'mass communication'",
                 "",
                 "",
                 "",
@@ -4502,7 +4614,10 @@
             ],
             "guid": "LFw~#l3n:q",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -4524,7 +4639,7 @@
             "fields": [
                 "ムーディ",
                 "atmospheric, romantic",
-                "&apos;moody&apos;",
+                "'moody'",
                 "extended katakana: ディ (di)",
                 "",
                 "",
@@ -4637,7 +4752,9 @@
             ],
             "guid": "M!]z,l9o0?",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -4689,7 +4806,7 @@
             "fields": [
                 "トレーナー",
                 "sweat shirt",
-                "&apos;trainer&apos;",
+                "'trainer'",
                 "",
                 "",
                 "",
@@ -4749,7 +4866,7 @@
             "fields": [
                 "ミルク",
                 "milk, non-dairy creamer",
-                "&apos;milk&apos;",
+                "'milk'",
                 "",
                 "",
                 "",
@@ -4764,7 +4881,7 @@
             "fields": [
                 "メス",
                 "surgical knife",
-                "Dutch &apos;mes&apos; (knife)",
+                "Dutch 'mes' (knife)",
                 "",
                 "",
                 "",
@@ -4794,7 +4911,7 @@
             "fields": [
                 "ブランコ",
                 "a swing",
-                "Portugese &apos;balanço&apos;",
+                "Portugese 'balanço'",
                 "",
                 "",
                 "",
@@ -4824,7 +4941,7 @@
             "fields": [
                 "パンスト",
                 "pantyhose",
-                "&apos;pan(ty) + sto(cking)&apos;",
+                "'pan(ty) + sto(cking)'",
                 "",
                 "",
                 "",
@@ -4832,7 +4949,10 @@
             ],
             "guid": "MiJ|;PB,MY",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -4877,7 +4997,9 @@
             ],
             "guid": "MxTP/[kDaY",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "person"
+            ]
         },
         {
             "__type__": "Note",
@@ -4952,7 +5074,9 @@
             ],
             "guid": "M|d}~;e!;h",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -4967,7 +5091,9 @@
             ],
             "guid": "N!P7-sk~l9",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -5181,7 +5307,9 @@
             ],
             "guid": "NWWB(DYZvE",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -5218,7 +5346,7 @@
             "fields": [
                 "ズボン",
                 "trousers (UK), pants (US)",
-                "French &apos;jupon&apos; (petticoat)",
+                "French 'jupon' (petticoat)",
                 "",
                 "",
                 "",
@@ -5248,7 +5376,7 @@
             "fields": [
                 "ナンバーディスプレイ",
                 "caller ID",
-                "&apos;number display&apos;",
+                "'number display'",
                 "extended katakana: ディ (di)",
                 "",
                 "",
@@ -5428,7 +5556,7 @@
             "fields": [
                 "ミシン",
                 "sewing machine",
-                "&apos;(sewing) machine&apos;",
+                "'(sewing) machine'",
                 "",
                 "",
                 "",
@@ -5616,7 +5744,9 @@
             ],
             "guid": "Ooo-3DKN9q",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -5646,7 +5776,9 @@
             ],
             "guid": "O{?:o+BMrL",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -5698,7 +5830,7 @@
             "fields": [
                 "ポシェット",
                 "small pouch or purse",
-                "French &apos;pochette&apos;",
+                "French 'pochette'",
                 "extended katakana: シェ (she)",
                 "",
                 "",
@@ -5736,7 +5868,9 @@
             ],
             "guid": "P?yu^v&D.A",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -5903,7 +6037,9 @@
             ],
             "guid": "PT(v6Y!TAg",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -5948,7 +6084,9 @@
             ],
             "guid": "PazPzbd&WG",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -6029,8 +6167,8 @@
             "__type__": "Note",
             "fields": [
                 "パンツ",
-                "trousers (especially women&apos;s) or (under)pants",
-                "&apos;pants&apos;",
+                "trousers (especially women's) or (under)pants",
+                "'pants'",
                 "",
                 "",
                 "",
@@ -6105,7 +6243,7 @@
             "fields": [
                 "ジェットコースター",
                 "roller coaster",
-                "&apos;jet coaster&apos;",
+                "'jet coaster'",
                 "extended katakana: ジェ (je)",
                 "",
                 "",
@@ -6113,7 +6251,9 @@
             ],
             "guid": "Q)~eX3m$e,",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -6158,7 +6298,9 @@
             ],
             "guid": "Q3q58_Dr}e",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -6173,14 +6315,16 @@
             ],
             "guid": "Q9]u;N[fcc",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ドライバー",
                 "(vehicle) driver, screwdriver",
-                "&apos;driver&apos;",
+                "'driver'",
                 "",
                 "",
                 "",
@@ -6257,7 +6401,7 @@
             "fields": [
                 "モーニングサービス or モーニング",
                 "breakfast of coffee, toast, hard-boiled egg et al. served at cafes",
-                "&apos;morning service&apos;",
+                "'morning service'",
                 "",
                 "",
                 "",
@@ -6265,14 +6409,16 @@
             ],
             "guid": "QC/eZt[>$v",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ジャンパー",
-                "jacket, windbreaker",
-                "&apos;jumper&apos;",
+                "(short) jacket, windbreaker",
+                "'jumper'",
                 "",
                 "",
                 "",
@@ -6544,7 +6690,7 @@
             "fields": [
                 "ノイローゼ",
                 "neurosis",
-                "German &apos;Neurose&apos;",
+                "German 'Neurose'",
                 "",
                 "",
                 "",
@@ -6597,7 +6743,9 @@
             ],
             "guid": "_rDuJ(N}n",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -6687,7 +6835,9 @@
             ],
             "guid": "b5p$O.PKBN",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -6702,7 +6852,9 @@
             ],
             "guid": "b</zthPT|d",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -6768,8 +6920,8 @@
             "__type__": "Note",
             "fields": [
                 "テレビ",
-                "television",
-                "",
+                "TV",
+                "'televi(sion)'",
                 "",
                 "",
                 "",
@@ -6777,7 +6929,9 @@
             ],
             "guid": "bV#$dDir(o",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -6921,7 +7075,7 @@
             "fields": [
                 "ポケモン",
                 "Pokémon",
-                "&apos;pocke(t) mon(ster)&apos;",
+                "'pocke(t) mon(ster)'",
                 "",
                 "",
                 "",
@@ -6929,7 +7083,9 @@
             ],
             "guid": "bwD;u{_MJf",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "trademark"
+            ]
         },
         {
             "__type__": "Note",
@@ -6959,7 +7115,9 @@
             ],
             "guid": "c3TUR=3>n8",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -7049,14 +7207,16 @@
             ],
             "guid": "cK8JBnbzBl",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ジーパン or Ｇパン",
                 "jeans",
-                "&apos;jea(ns) + pan(ts)&apos;",
+                "'jea(ns) + pan(ts)'",
                 "",
                 "",
                 "",
@@ -7064,7 +7224,9 @@
             ],
             "guid": "cL-C?Ad&V-",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -7206,7 +7368,7 @@
             "fields": [
                 "ピエロ",
                 "a clown",
-                "French &apos;pierrot&apos;",
+                "French 'pierrot'",
                 "",
                 "",
                 "",
@@ -7274,7 +7436,9 @@
             ],
             "guid": "cr*?=Mw8n8",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -7294,17 +7458,19 @@
         {
             "__type__": "Note",
             "fields": [
-                "シーエム",
-                "television commercial",
-                "'C.M.' (Commercial Message)",
+                "シー・エム",
+                "commercial",
+                "'CM' (Commercial Message) on radio, TV, etc.",
                 "",
                 "",
                 "",
-                "shīemu"
+                "shī・emu"
             ],
             "guid": "cym2>rnN`}",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -7356,7 +7522,7 @@
             "fields": [
                 "バス停",
                 "bus stop",
-                "&apos;bus&apos; + Japanese 停 &apos;tei&apos; (halt)",
+                "'bus' + Japanese 停 'tei' (halt)",
                 "",
                 "",
                 "",
@@ -7424,7 +7590,9 @@
             ],
             "guid": "d@Z|QCFjWd",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -7469,7 +7637,9 @@
             ],
             "guid": "dD4qo0iT_n",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -7484,7 +7654,9 @@
             ],
             "guid": "dDG>fu1,m^",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -7516,7 +7688,9 @@
             ],
             "guid": "d[@1OWM2,;",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -7553,7 +7727,7 @@
             "fields": [
                 "プロ野球",
                 "professional baseball",
-                "&apos;pro&apos; + Japanese 野球 &apos;yakyuu&apos; (baseball)",
+                "'pro' + Japanese 野球 'yakyuu' (baseball)",
                 "",
                 "",
                 "",
@@ -7628,7 +7802,7 @@
             "fields": [
                 "ナイター",
                 "night game",
-                "&apos;night + -er&apos;",
+                "'night + -er'",
                 "",
                 "",
                 "",
@@ -7636,14 +7810,16 @@
             ],
             "guid": "d|RRktgSn@",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ジェンダーフリー",
-                "gender equality, gender-blind",
-                "&apos;gender free&apos;",
+                "gender equality",
+                "'gender free'",
                 "extended katakana: ジェ (je)",
                 "",
                 "",
@@ -7651,7 +7827,9 @@
             ],
             "guid": "e!#rkMc<Pi",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -7711,7 +7889,9 @@
             ],
             "guid": "e(xHXbnU0i",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -7741,7 +7921,9 @@
             ],
             "guid": "e6S*.ft#Sr",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -7771,7 +7953,9 @@
             ],
             "guid": "e<,u?FQF){",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -7861,7 +8045,9 @@
             ],
             "guid": "eK;~-[ysGT",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -8017,9 +8203,9 @@
             "__type__": "Note",
             "fields": [
                 "シーン",
-                "(movie) scene",
+                "scene",
                 "",
-                "",
+                "sight, scenario",
                 "",
                 "",
                 "shīn"
@@ -8033,7 +8219,7 @@
             "fields": [
                 "ミルクティー",
                 "black tea with milk",
-                "&apos;milk tea&apos;",
+                "'milk tea'",
                 "",
                 "",
                 "",
@@ -8041,7 +8227,9 @@
             ],
             "guid": "ep[YzYvY,!",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8056,7 +8244,9 @@
             ],
             "guid": "eq/vFd;%91",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -8208,7 +8398,9 @@
             ],
             "guid": "f9Ce^;FU2y",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -8328,7 +8520,9 @@
             ],
             "guid": "fXj=kzlVMG",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8388,7 +8582,11 @@
             ],
             "guid": "f_U37j-*h+",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "computing",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8403,7 +8601,10 @@
             ],
             "guid": "fb+ou3Jg/~",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8425,7 +8626,7 @@
             "fields": [
                 "ジョッキ",
                 "beer mug",
-                "&apos;jockey&apos;",
+                "'jug'",
                 "",
                 "",
                 "",
@@ -8455,7 +8656,7 @@
             "fields": [
                 "ポンプ",
                 "pump",
-                "Dutch &apos;pomp&apos;",
+                "Dutch 'pomp'",
                 "",
                 "",
                 "",
@@ -8478,7 +8679,9 @@
             ],
             "guid": "fq):j-q(D,",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -8560,7 +8763,7 @@
             "fields": [
                 "ピンセット",
                 "tweezers",
-                "Dutch &apos;pincet&apos;",
+                "Dutch 'pincet'",
                 "",
                 "",
                 "",
@@ -8658,7 +8861,9 @@
             ],
             "guid": "g`KWQa|Ui^",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -8718,7 +8923,9 @@
             ],
             "guid": "go2B>VNh6:",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8799,8 +9006,8 @@
             "__type__": "Note",
             "fields": [
                 "ドンマイ",
-                "don&apos;t worry about it, \"no problem\"",
-                "&apos;don(&apos;t) mi(nd)&apos;",
+                "don't worry about it, \"no problem\"",
+                "'don('t) mi(nd)'",
                 "",
                 "",
                 "",
@@ -8808,7 +9015,9 @@
             ],
             "guid": "g}AW%$67&|",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8853,14 +9062,16 @@
             ],
             "guid": "h.7r8cWkVd",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "music"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ボディチェック",
                 "body search, frisk",
-                "&apos;body check&apos;",
+                "'body check'",
                 "extended katakana: ディ (di), チェ (che)",
                 "",
                 "",
@@ -8868,7 +9079,9 @@
             ],
             "guid": "h8@:Wob.pw",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8898,7 +9111,9 @@
             ],
             "guid": "h9jg3Q<]6T",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -8934,8 +9149,8 @@
             "__type__": "Note",
             "fields": [
                 "ベッドタウン",
-                "bedroom community,  commuter town",
-                "&apos;bed town&apos;",
+                "bedroom community,&nbsp; commuter town",
+                "'bed town'",
                 "",
                 "",
                 "",
@@ -8943,7 +9158,9 @@
             ],
             "guid": "h>bc]ir=1f",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8966,14 +9183,16 @@
                 "コンビニ",
                 "conveni(ence) store",
                 "",
-                "abbr.",
+                "",
                 "コンビニエンスストア",
                 "<img alt=\"コンビニエンスストアのイラスト\" src=\"convenience_store_24.png\">",
                 "konbini"
             ],
             "guid": "hD_hC=cq{i",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -8988,7 +9207,9 @@
             ],
             "guid": "hRLgl+q6]^",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "trademark"
+            ]
         },
         {
             "__type__": "Note",
@@ -9070,7 +9291,7 @@
             "fields": [
                 "ダストボックス",
                 "rubbish bin (UK), garbage can (US)",
-                "&apos;dust box&apos;",
+                "'dust box'",
                 "",
                 "",
                 "",
@@ -9078,14 +9299,16 @@
             ],
             "guid": "hg~c+1BQ*H",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ネクター",
                 "thick fruit bevereage",
-                "&apos;nectar&apos;",
+                "'nectar'",
                 "",
                 "",
                 "",
@@ -9108,7 +9331,9 @@
             ],
             "guid": "hk{mL/B93k",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -9138,14 +9363,16 @@
             ],
             "guid": "hqW]X#(x[!",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "プッシュホン",
                 "touch-tone phone",
-                "&apos;push phone&apos;",
+                "'push phone'",
                 "",
                 "",
                 "",
@@ -9153,7 +9380,9 @@
             ],
             "guid": "hsTw>gb}ju",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -9168,7 +9397,9 @@
             ],
             "guid": "hscBLGa&N$",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -9198,7 +9429,9 @@
             ],
             "guid": "hubz4K/(vh",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -9213,7 +9446,9 @@
             ],
             "guid": "hyb{h+;H2J",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -9320,7 +9555,10 @@
             ],
             "guid": "i0,E<G2C}C",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -9350,7 +9588,9 @@
             ],
             "guid": "iCHCA//GzM",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -9372,7 +9612,7 @@
             "fields": [
                 "ヨット",
                 "small sailboat (usually) or yacht",
-                "&apos;yacht&apos;",
+                "'yacht'",
                 "",
                 "",
                 "",
@@ -9387,7 +9627,7 @@
             "fields": [
                 "ノーベル賞",
                 "Nobel Prize",
-                "&apos;Nobel&apos; + Japanese 賞 &apos;shou&apos; (prize)",
+                "'Nobel' + Japanese 賞 'shou' (prize)",
                 "",
                 "",
                 "",
@@ -9620,7 +9860,9 @@
             ],
             "guid": "ix}6hXe53n",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -9635,7 +9877,9 @@
             ],
             "guid": "i{K1U=RgzP",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -9657,7 +9901,7 @@
             "fields": [
                 "ビジネスホテル",
                 "budget hotel targeted at business travelers",
-                "&apos;business hotel&apos;",
+                "'business hotel'",
                 "",
                 "",
                 "",
@@ -9665,7 +9909,9 @@
             ],
             "guid": "j)sv-L1clJ",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -9710,7 +9956,9 @@
             ],
             "guid": "j5Ok57(z@Z",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "sports"
+            ]
         },
         {
             "__type__": "Note",
@@ -9747,7 +9995,7 @@
             "fields": [
                 "プロレス",
                 "professional wrestling",
-                "&apos;pro(fessional) wrest(ling)&apos;",
+                "'pro(fessional) wrest(ling)'",
                 "",
                 "",
                 "",
@@ -9755,7 +10003,9 @@
             ],
             "guid": "jMFPsNs?)b",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -9770,7 +10020,9 @@
             ],
             "guid": "jN.skfT3;}",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -9807,7 +10059,7 @@
             "fields": [
                 "チャーハン",
                 "fried rice",
-                "Mandarin 炒飯 &apos;chǎofàn&apos;",
+                "Mandarin 炒飯 'chǎofàn'",
                 "recent Chinese loanwords often use katakana",
                 "",
                 "",
@@ -9815,7 +10067,9 @@
             ],
             "guid": "j_n.G^An0/",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -9837,7 +10091,7 @@
             "fields": [
                 "ハイタッチ",
                 "high five",
-                "&apos;high touch&apos;",
+                "'high touch'",
                 "",
                 "",
                 "",
@@ -9845,7 +10099,9 @@
             ],
             "guid": "jgYr6kQ~5M",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -9882,7 +10138,7 @@
             "fields": [
                 "アフロヘア",
                 "Afro (hairstyle)",
-                "",
+                "abbr. アフロ",
                 "",
                 "アフロヘアーをした人",
                 "<img alt=\"hair_afro.png (766×789)\" src=\"hair_afro.png\">",
@@ -9935,7 +10191,9 @@
             ],
             "guid": "k!DxA!Zoni",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -9957,7 +10215,7 @@
             "fields": [
                 "ジェット機",
                 "jet airplane",
-                "&apos;jet&apos; + Japanese 機 &apos;ki&apos; (mechanism)",
+                "'jet' + Japanese 機 'ki' (mechanism)",
                 "extended katakana: ジェ (je)",
                 "",
                 "",
@@ -9995,7 +10253,9 @@
             ],
             "guid": "k/zCs81j+x",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -10055,7 +10315,9 @@
             ],
             "guid": "k1VHGL|j,r",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -10076,9 +10338,9 @@
             "__type__": "Note",
             "fields": [
                 "シューマイ",
-                "shu mai (Chinese steamed dumpling)",
-                "Cantonese 焼賣 'sīu máai'",
-                "recent Chinese loanwords often use katakana",
+                "shumai, shaomai",
+                "焼賣 - Cantonese&nbsp; 'sīu máai'・Mandarin 'shāomài'",
+                "Chinese-style steamed meat dumpling&nbsp;",
                 "",
                 "",
                 "shūmai"
@@ -10156,7 +10418,7 @@
             "fields": [
                 "スポイト",
                 "syringe, dropper",
-                "Dutch &apos;spuit&apos; (syringe)",
+                "Dutch 'spuit' (syringe)",
                 "",
                 "",
                 "",
@@ -10185,8 +10447,8 @@
             "__type__": "Note",
             "fields": [
                 "テロ",
-                "terrorism",
-                "",
+                "terror",
+                "'terro(rism)'",
                 "",
                 "",
                 "",
@@ -10194,7 +10456,9 @@
             ],
             "guid": "k^xl7o&!v+",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -10216,7 +10480,7 @@
             "fields": [
                 "ヨーロッパ",
                 "Europe",
-                "Portugese &apos;Europa&apos;",
+                "Portugese 'Europa'",
                 "",
                 "",
                 "",
@@ -10224,14 +10488,16 @@
             ],
             "guid": "kb;u,Mm>(Q",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "マジックテープ",
                 "Velcro",
-                "&apos;magic tape&apos; (Japanese trade name for velcro)",
+                "'magic tape' (Japanese trade name for velcro)",
                 "",
                 "",
                 "",
@@ -10239,14 +10505,16 @@
             ],
             "guid": "kbk5}~m+]0",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "trademark"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ホーム",
                 "railway platform",
-                "&apos;(plat)form&apos;",
+                "'(plat)form'",
                 "",
                 "",
                 "",
@@ -10254,7 +10522,10 @@
             ],
             "guid": "kjNTo{-mUL",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -10269,7 +10540,10 @@
             ],
             "guid": "kqm>>iBND0",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -10284,7 +10558,9 @@
             ],
             "guid": "kre5=t3x7f",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -10299,7 +10575,9 @@
             ],
             "guid": "k{v3UwCU<0",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -10389,13 +10667,15 @@
             ],
             "guid": "lRf`@DfG9S",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ソース",
-                "sauce",
+                "sauce, source (code)",
                 "",
                 "",
                 "",
@@ -10404,7 +10684,10 @@
             ],
             "guid": "lUb#89o!x@",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "computing",
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -10546,7 +10829,7 @@
             "fields": [
                 "ナンバープレート",
                 "BrE number plate, AmE license plate",
-                "&apos;number plate&apos;",
+                "'number plate'",
                 "",
                 "",
                 "",
@@ -10576,7 +10859,7 @@
             "fields": [
                 "バックナンバー",
                 "back issue",
-                "&apos;back number&apos;",
+                "'back number'",
                 "",
                 "",
                 "",
@@ -10614,7 +10897,9 @@
             ],
             "guid": "m68i7#L-B[",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "computing"
+            ]
         },
         {
             "__type__": "Note",
@@ -10719,7 +11004,10 @@
             ],
             "guid": "mG*~.u;[>f",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -10764,7 +11052,9 @@
             ],
             "guid": "mK*IGq9LrA",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -10920,7 +11210,7 @@
             "__type__": "Note",
             "fields": [
                 "マイカー",
-                "privately owned car (not necessarily the speaker&apos;s own)",
+                "privately owned car (not necessarily the speaker's own)",
                 "",
                 "",
                 "",
@@ -10929,7 +11219,9 @@
             ],
             "guid": "m`bDJ#12h}",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -10959,7 +11251,9 @@
             ],
             "guid": "mc@+q^/Ujw",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -11011,7 +11305,7 @@
             "fields": [
                 "フライドポテト",
                 "french fries (US), chips (UK)",
-                "&apos;fried potato(es)&apos;",
+                "'fried potato(es)'",
                 "",
                 "",
                 "",
@@ -11019,7 +11313,10 @@
             ],
             "guid": "mzy6v{o!&J",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -11064,7 +11361,9 @@
             ],
             "guid": "n-E0b6Qph3",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -11146,7 +11445,7 @@
             "fields": [
                 "ペアルック",
                 "matching outfits (usually between a couple)",
-                "&apos;pair look&apos;",
+                "'pair look'",
                 "",
                 "",
                 "",
@@ -11154,7 +11453,9 @@
             ],
             "guid": "nTLI@{q#1b",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -11296,7 +11597,7 @@
             "fields": [
                 "ハンバーガー",
                 "hamburger",
-                "note that a hamburger patty served without a bun is usually  ハンバーグ",
+                "note that a hamburger patty served&nbsp;without a bun is usually&nbsp; ハンバーグ",
                 "",
                 "",
                 "",
@@ -11304,7 +11605,9 @@
             ],
             "guid": "np!;0@>5^A",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -11319,7 +11622,10 @@
             ],
             "guid": "np`.Q+fB)1",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "computing",
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -11409,7 +11715,9 @@
             ],
             "guid": "o7k]as>8AP",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -11424,7 +11732,9 @@
             ],
             "guid": "o;n.>|mSxE",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -11439,7 +11749,9 @@
             ],
             "guid": "o=omZx{_,%",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -11454,7 +11766,9 @@
             ],
             "guid": "oDE4.jl{|%",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -11469,7 +11783,9 @@
             ],
             "guid": "oH6in/<WGT",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -11514,7 +11830,9 @@
             ],
             "guid": "oM9UUgWLl2",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -11529,7 +11847,9 @@
             ],
             "guid": "oOvlsa5YTx",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "music"
+            ]
         },
         {
             "__type__": "Note",
@@ -11574,7 +11894,9 @@
             ],
             "guid": "oVsW+JI|=3",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -11596,7 +11918,7 @@
             "fields": [
                 "ヘルツェゴビナ",
                 "Herzegovina",
-                "&apos;Herzegovina&apos;",
+                "'Herzegovina'",
                 "extended katakana: ツェ (tse)",
                 "",
                 "",
@@ -11681,7 +12003,9 @@
             ],
             "guid": "op@u;&!n]h",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -11702,16 +12026,18 @@
             "__type__": "Note",
             "fields": [
                 "ジンギスカン",
-                "&apos;Genghis Khan,&apos; a Mongolian style barbecue with lamb",
+                "jingisukan&nbsp;<br>",
                 "",
-                "",
+                "a Mongolian style barbecue with lamb,<br>named after 'Genghis Khan'",
                 "",
                 "",
                 "jingisukan"
             ],
             "guid": "o|ouvnei$b",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -11733,7 +12059,7 @@
             "fields": [
                 "ハンドル",
                 "handle, steering wheel, or handlebars",
-                "&apos;handle&apos;",
+                "'handle'",
                 "",
                 "",
                 "",
@@ -11778,7 +12104,7 @@
             "fields": [
                 "トランクルーム",
                 "storage room",
-                "&apos;&apos;trunk room&apos;&apos;",
+                "''trunk room''",
                 "",
                 "",
                 "",
@@ -11786,7 +12112,9 @@
             ],
             "guid": "p,RIDv{[<,",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -11891,7 +12219,9 @@
             ],
             "guid": "pTb^,O`vQG",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -11951,7 +12281,9 @@
             ],
             "guid": "pidK5|Kga)",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -11981,7 +12313,9 @@
             ],
             "guid": "pkO`UuF*tF",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -12003,7 +12337,7 @@
             "fields": [
                 "セレブ",
                 "wealthy socialite, celebrity",
-                "&apos;celeb(rity)&apos;",
+                "'celeb(rity)'",
                 "",
                 "",
                 "",
@@ -12011,7 +12345,9 @@
             ],
             "guid": "plGG(}E47h",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -12071,7 +12407,9 @@
             ],
             "guid": "ppX0W=Y5n(",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -12108,7 +12446,7 @@
             "fields": [
                 "ヘアピンカーブ",
                 "hairpin turn",
-                "&apos;hairpin curve&apos;",
+                "'hairpin curve'",
                 "",
                 "",
                 "",
@@ -12176,7 +12514,9 @@
             ],
             "guid": "q7C{9-eN/N",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -12303,7 +12643,7 @@
             "fields": [
                 "フリーサイズ",
                 "one-size-fits-all",
-                "&apos;free size&apos;",
+                "'free size'",
                 "",
                 "",
                 "",
@@ -12311,14 +12651,16 @@
             ],
             "guid": "qV*L:rY7ik",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ベビーカー",
                 "stroller (US), pushchair or pram (UK)",
-                "&apos;baby car&apos;",
+                "'baby car'",
                 "",
                 "",
                 "",
@@ -12326,7 +12668,9 @@
             ],
             "guid": "qav:o6AA3l",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -12423,7 +12767,7 @@
             "fields": [
                 "ハンバーグ",
                 "ground beef patty served on a plate, usually with a sauce or gravy",
-                "&apos;hamburg(er steak)&apos;; note that a hamburger is usually ハンバーガー",
+                "'hamburg(er steak)'; note that a hamburger is usually ハンバーガー",
                 "",
                 "",
                 "",
@@ -12431,7 +12775,10 @@
             ],
             "guid": "qsX-T~8We3",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -12446,7 +12793,9 @@
             ],
             "guid": "qt1R=9_R-B",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "sports"
+            ]
         },
         {
             "__type__": "Note",
@@ -12478,7 +12827,9 @@
             ],
             "guid": "q{CNy%.osZ",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "org."
+            ]
         },
         {
             "__type__": "Note",
@@ -12493,7 +12844,10 @@
             ],
             "guid": "q{H.9bU*)",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -12530,7 +12884,7 @@
             "fields": [
                 "マジックインキ",
                 "permanent marker",
-                "&apos;Magic Ink&apos; (Japanese brand name)",
+                "'Magic Ink' (Japanese brand name)",
                 "",
                 "",
                 "",
@@ -12538,7 +12892,9 @@
             ],
             "guid": "r(Gq(%N3tp",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "trademark"
+            ]
         },
         {
             "__type__": "Note",
@@ -12553,7 +12909,9 @@
             ],
             "guid": "r*,wNJ:|1v",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -12583,7 +12941,9 @@
             ],
             "guid": "r/$neW7N(k",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -12598,7 +12958,9 @@
             ],
             "guid": "r@G@N[jf3%",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "music"
+            ]
         },
         {
             "__type__": "Note",
@@ -12658,7 +13020,9 @@
             ],
             "guid": "rKVF00LlWb",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -12930,7 +13294,9 @@
             ],
             "guid": "s-n-xm3DZn",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "person"
+            ]
         },
         {
             "__type__": "Note",
@@ -13082,7 +13448,9 @@
             ],
             "guid": "s]:78YY9l~",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -13103,7 +13471,7 @@
             "__type__": "Note",
             "fields": [
                 "スタイル",
-                "(fashion) style, one&apos;s figure",
+                "(fashion) style, one's figure",
                 "",
                 "",
                 "",
@@ -13179,7 +13547,7 @@
             "fields": [
                 "メーカー",
                 "manufacturer",
-                "&apos;maker&apos;",
+                "'maker'",
                 "",
                 "",
                 "",
@@ -13232,7 +13600,9 @@
             ],
             "guid": "t&r=O$c{6L",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -13247,7 +13617,9 @@
             ],
             "guid": "t.MO,4XGa>",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -13382,7 +13754,9 @@
             ],
             "guid": "tY(]0:}LQJ",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -13412,7 +13786,9 @@
             ],
             "guid": "t^c[6*>%yX",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -13442,7 +13818,9 @@
             ],
             "guid": "t`Td&hGl;.",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -13547,7 +13925,9 @@
             ],
             "guid": "thK{fCIK>s",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -13562,7 +13942,9 @@
             ],
             "guid": "thl<1.5hFx",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "sports"
+            ]
         },
         {
             "__type__": "Note",
@@ -13622,7 +14004,9 @@
             ],
             "guid": "t}yVao.kF~",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -13719,7 +14103,7 @@
             "fields": [
                 "ペーパーテスト",
                 "written examination/test",
-                "&apos;paper test&apos;",
+                "'paper test'",
                 "",
                 "",
                 "",
@@ -13727,7 +14111,9 @@
             ],
             "guid": "u6i$1`GN&B",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -13757,14 +14143,16 @@
             ],
             "guid": "uEsAg;mZZo",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "スマホ",
                 "smartphone",
-                "&apos;sma(rt) + (p)ho(ne)&apos;",
+                "'sma(rt) + (p)ho(ne)'",
                 "",
                 "",
                 "",
@@ -13772,7 +14160,9 @@
             ],
             "guid": "uHG(XRw@mR",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -13832,7 +14222,9 @@
             ],
             "guid": "uS3;*gq`eL",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "computing"
+            ]
         },
         {
             "__type__": "Note",
@@ -13929,7 +14321,7 @@
             "fields": [
                 "フリーダイアル or フリーダイヤル",
                 "toll free call",
-                "&apos;free dial&apos;",
+                "'free dial'",
                 "",
                 "",
                 "",
@@ -13937,7 +14329,9 @@
             ],
             "guid": "v3-w^(3t|H",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -14072,7 +14466,9 @@
             ],
             "guid": "veRz_^4ng4",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -14147,7 +14543,9 @@
             ],
             "guid": "w$L_r[ybjR",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -14192,13 +14590,15 @@
             ],
             "guid": "w(r8,iBTLB",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "mimetic"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ジャム",
-                "(fruit) jam",
+                "jam (spread)",
                 "",
                 "",
                 "",
@@ -14229,7 +14629,7 @@
             "fields": [
                 "ミイラ",
                 "mummy",
-                "Portugese &apos;mirra&apos; (myrrh: an oil used in preservation)",
+                "Portugese 'mirra' (myrrh: an oil used in preservation)",
                 "",
                 "",
                 "",
@@ -14258,8 +14658,8 @@
             "__type__": "Note",
             "fields": [
                 "ワンタン",
-                "wonton",
-                "",
+                "wonton (dumpling)",
+                "Chinese&nbsp;<a>雲</a><a>呑</a>&nbsp;'wantan'",
                 "",
                 "ワンタンスープ",
                 "<img alt=\"food_wantan_soup.png (583×552)\" src=\"food_wantan_soup.png\">",
@@ -14267,7 +14667,9 @@
             ],
             "guid": "w;7VUNTLi<",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -14554,7 +14956,9 @@
             ],
             "guid": "x+O|C@PI^@",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -14569,7 +14973,9 @@
             ],
             "guid": "x+j7K[EB.N",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -14584,14 +14990,16 @@
             ],
             "guid": "x.WSF|8tUy",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ピント",
                 "focus",
-                "Dutch &apos;brandpunt&apos;",
+                "Dutch 'brandpunt'",
                 "",
                 "",
                 "",
@@ -14644,7 +15052,9 @@
             ],
             "guid": "xHBq:lI}Cy",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -14704,7 +15114,9 @@
             ],
             "guid": "xNwp:M2@`#",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "place"
+            ]
         },
         {
             "__type__": "Note",
@@ -14824,7 +15236,9 @@
             ],
             "guid": "xgX%a*Rk^Y",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -14839,7 +15253,9 @@
             ],
             "guid": "xwa0?mKHvc",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -14869,7 +15285,10 @@
             ],
             "guid": "y%ck!Gs.W>",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -14899,7 +15318,9 @@
             ],
             "guid": "y.#$!d+*=N",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -14944,7 +15365,9 @@
             ],
             "guid": "y={RfD3H1[",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -15004,7 +15427,9 @@
             ],
             "guid": "yR|:i6ojoh",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -15040,7 +15465,7 @@
             "__type__": "Note",
             "fields": [
                 "レジ",
-                "cash register",
+                "(cash) register",
                 "",
                 "",
                 "レジの会計",
@@ -15049,7 +15474,10 @@
             ],
             "guid": "y]*B*:~,7r",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -15064,7 +15492,9 @@
             ],
             "guid": "ycr!DF3+Wi",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
@@ -15154,7 +15584,9 @@
             ],
             "guid": "yqU`~ra#>/",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -15169,7 +15601,9 @@
             ],
             "guid": "yrk$*/>{3@",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -15191,7 +15625,7 @@
             "fields": [
                 "プレイガイド",
                 "(theater) ticket agency",
-                "&apos;play + guide&apos;",
+                "'play + guide'",
                 "",
                 "",
                 "",
@@ -15199,7 +15633,9 @@
             ],
             "guid": "ys`4q~l+NF",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -15259,7 +15695,9 @@
             ],
             "guid": "z!U}7f^pv!",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "trademark"
+            ]
         },
         {
             "__type__": "Note",
@@ -15364,7 +15802,9 @@
             ],
             "guid": "zDT3|#R&6B",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -15491,7 +15931,7 @@
             "fields": [
                 "ストーブ",
                 "space heater",
-                "&apos;stove&apos;",
+                "'stove'",
                 "",
                 "",
                 "",
@@ -15514,14 +15954,16 @@
             ],
             "guid": "zXT:sRkr=]",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "food"
+            ]
         },
         {
             "__type__": "Note",
             "fields": [
                 "ペーパーカンパニー",
                 "dummy company, shell company",
-                "&apos;paper company&apos;",
+                "'paper company'",
                 "",
                 "",
                 "",
@@ -15529,7 +15971,9 @@
             ],
             "guid": "zY7AhzN>=F",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
