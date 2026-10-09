@@ -233,6 +233,7 @@
         "fishing_cooler_box.png",
         "flag_bakumatsu_kaientai.png",
         "food_americandog.png",
+        "food_creamstew.png",
         "food_croissan.png",
         "food_croquette.png",
         "food_cup_ra-men_open.png",
@@ -384,6 +385,7 @@
         "oven_toaster.png",
         "parthenon.png",
         "party_cracker_kamifubuki.png",
+        "party_highball_jug.png",
         "passport_checkin.png",
         "percent_50.png",
         "pet_allergy_cat.png",
@@ -967,7 +969,8 @@
             "guid": "AVLfyG}ryz",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "abbr."
+                "abbr.",
+                "wasei"
             ]
         },
         {
@@ -1647,7 +1650,9 @@
             ],
             "guid": "CbH];uoa*n",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -2283,7 +2288,9 @@
             ],
             "guid": "DyJzAE(Rty",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -2757,7 +2764,8 @@
             "guid": "FF(D>v&%~w",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "abbr."
+                "abbr.",
+                "wasei"
             ]
         },
         {
@@ -4488,7 +4496,9 @@
             ],
             "guid": "K|#4)2A8R5",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "trademark"
+            ]
         },
         {
             "__type__": "Note",
@@ -4814,7 +4824,9 @@
             ],
             "guid": "M3$7UIQ1-q",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -5384,7 +5396,9 @@
             ],
             "guid": "O#q6os4#yC",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -5564,7 +5578,9 @@
             ],
             "guid": "ODp|TnMCUZ",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -5869,7 +5885,8 @@
             "guid": "P?yu^v&D.A",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "abbr."
+                "abbr.",
+                "wasei"
             ]
         },
         {
@@ -5966,7 +5983,7 @@
             "__type__": "Note",
             "fields": [
                 "シェイクスピア",
-                "Shakespeare",
+                "Shakespeare, William",
                 "",
                 "extended katakana: シェ (she)",
                 "シェイクスピアの似顔絵",
@@ -6161,7 +6178,9 @@
             ],
             "guid": "Psi}{QuWV]",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -6283,7 +6302,9 @@
             ],
             "guid": "Q2XAQ1;%,l",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -6426,7 +6447,9 @@
             ],
             "guid": "QD#2Rx_)z4",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -6668,7 +6691,9 @@
             ],
             "guid": "Q~=C}Cv:@R",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -7084,7 +7109,9 @@
             "guid": "bwD;u{_MJf",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "trademark"
+                "abbr.",
+                "trademark",
+                "wasei"
             ]
         },
         {
@@ -7214,13 +7241,13 @@
         {
             "__type__": "Note",
             "fields": [
-                "ジーパン or Ｇパン",
+                "ジーパン",
                 "jeans",
-                "'jea(ns) + pan(ts)'",
+                "'jea(ns) + pan(ts)'<br><br>also Ｇパン",
                 "",
                 "",
                 "",
-                "jīpan or G-pan"
+                "jīpan"
             ],
             "guid": "cL-C?Ad&V-",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
@@ -7331,7 +7358,9 @@
             ],
             "guid": "c_T{Le%cN3",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -7681,7 +7710,7 @@
                 "ダブル",
                 "double; double-breasted (jacket)",
                 "'double'",
-                "",
+                "sometimes written as 'Ｗ' (double u)",
                 "",
                 "",
                 "daburu"
@@ -8107,7 +8136,9 @@
             ],
             "guid": "eS{E:1rBug",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8628,13 +8659,15 @@
                 "beer mug",
                 "'jug'",
                 "",
-                "",
-                "",
+                "ハイボール",
+                "<img alt=\"ハイボールのイラスト（ジョッキ）\" src=\"party_highball_jug.png\">",
                 "jokki"
             ],
             "guid": "fgT3=B+Mf>",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8696,7 +8729,9 @@
             ],
             "guid": "ftaRZ>Z]CG",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8831,7 +8866,9 @@
             ],
             "guid": "gX8#SL7gB^",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -8893,7 +8930,10 @@
             ],
             "guid": "gdq1=g8BLt",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -9479,7 +9519,8 @@
             "guid": "h~`ixYj,fC",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "trademark"
+                "trademark",
+                "wasei"
             ]
         },
         {
@@ -10004,7 +10045,8 @@
             "guid": "jMFPsNs?)b",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "abbr."
+                "abbr.",
+                "wasei"
             ]
         },
         {
@@ -10254,7 +10296,8 @@
             "guid": "k/zCs81j+x",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "abbr."
+                "abbr.",
+                "wasei"
             ]
         },
         {
@@ -10506,7 +10549,8 @@
             "guid": "kbk5}~m+]0",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "trademark"
+                "trademark",
+                "wasei"
             ]
         },
         {
@@ -10637,7 +10681,9 @@
             ],
             "guid": "lDCiz&fk|(",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -10702,7 +10748,9 @@
             ],
             "guid": "lV.{,&T%+;",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -11022,7 +11070,9 @@
             ],
             "guid": "mGaGR#.g7`",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -11204,7 +11254,9 @@
             ],
             "guid": "m^_N:cdDv`",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -11283,7 +11335,9 @@
             ],
             "guid": "mdexx]$C,j",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "mimetic"
+            ]
         },
         {
             "__type__": "Note",
@@ -11911,7 +11965,9 @@
             ],
             "guid": "oXx1H3NvFW",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -12036,7 +12092,8 @@
             "guid": "o|ouvnei$b",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "food"
+                "food",
+                "wasei"
             ]
         },
         {
@@ -12408,7 +12465,8 @@
             "guid": "ppX0W=Y5n(",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "abbr."
+                "abbr.",
+                "wasei"
             ]
         },
         {
@@ -12553,7 +12611,7 @@
             "fields": [
                 "ゲレンデ",
                 "ski slope",
-                "German 'Gelände' (ground, terrain)",
+                "German 'Gelände' (grounds, terrain)",
                 "",
                 "スキー場",
                 "<img alt=\"スキー場のイラスト\" src=\"ski_jou_mountain.png\">",
@@ -12777,7 +12835,8 @@
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
                 "abbr.",
-                "food"
+                "food",
+                "wasei"
             ]
         },
         {
@@ -12893,7 +12952,8 @@
             "guid": "r(Gq(%N3tp",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "trademark"
+                "trademark",
+                "wasei"
             ]
         },
         {
@@ -12926,7 +12986,9 @@
             ],
             "guid": "r,jQmVm]p7",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -13121,8 +13183,8 @@
                 "stew",
                 "",
                 "",
-                "",
-                "",
+                "クリームシチュー",
+                "<img alt=\"クリームシチューのイラスト\" src=\"food_creamstew.png\">",
                 "shichū"
             ],
             "guid": "r]ML~h2WR{",
@@ -13311,7 +13373,10 @@
             ],
             "guid": "s5azT6#Kbz",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr.",
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -13342,7 +13407,8 @@
             "guid": "sEx|,H,wJ4",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "food"
+                "food",
+                "wasei"
             ]
         },
         {
@@ -13570,7 +13636,9 @@
             ],
             "guid": "t#5sUmt`/0",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -13819,7 +13887,8 @@
             "guid": "t`Td&hGl;.",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "abbr."
+                "abbr.",
+                "wasei"
             ]
         },
         {
@@ -13850,7 +13919,9 @@
             ],
             "guid": "tb/S]l4Fd1",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -13959,7 +14030,9 @@
             ],
             "guid": "tk2pI*!K1G",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "abbr."
+            ]
         },
         {
             "__type__": "Note",
@@ -14177,7 +14250,9 @@
             ],
             "guid": "uL$Ah2-:+K",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -14421,7 +14496,9 @@
             ],
             "guid": "vUPDcxf1c_",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -14575,7 +14652,9 @@
             ],
             "guid": "w&2Pqe_}2t",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
-            "tags": []
+            "tags": [
+                "wasei"
+            ]
         },
         {
             "__type__": "Note",
@@ -15696,7 +15775,8 @@
             "guid": "z!U}7f^pv!",
             "note_model_uuid": "5eb840dc-bb4f-11f1-81d3-3128ceb706b4",
             "tags": [
-                "trademark"
+                "trademark",
+                "wasei"
             ]
         },
         {
